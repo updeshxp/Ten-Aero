@@ -1,0 +1,3960 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="500"
+   id="layer1"
+   width="500"
+   version="1.1"
+   sodipodi:docname="decoration.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.356"
+     inkscape:cx="250.21222"
+     inkscape:cy="250.21222"
+     inkscape:window-width="1224"
+     inkscape:window-height="936"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="definitions">
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_shadow_top"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop1" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.000495; stop-color: #000000"
+         id="stop2" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.00396; stop-color: #000000"
+         id="stop3" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.013365; stop-color: #000000"
+         id="stop4" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.03168"
+         id="stop5" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.061875"
+         id="stop6" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.10692; stop-color: #000000"
+         id="stop7" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop8" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.25344; stop-color: #000000"
+         id="stop9" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.360855"
+         id="stop10" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.495"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_shadow_bottom"
+       x1="0%"
+       x2="0%"
+       y1="100%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop12" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.000495; stop-color: #000000"
+         id="stop13" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.00396"
+         id="stop14" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.013365"
+         id="stop15" />
+      <stop
+         offset="0.4"
+         style="stop-opacity: 0.03168; stop-color: #000000"
+         id="stop16" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.061875"
+         id="stop17" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.10692; stop-color: #000000"
+         id="stop18" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop19" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.25344"
+         id="stop20" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.360855; stop-color: #000000"
+         id="stop21" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.495"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_shadow_left"
+       x1="0%"
+       x2="100%"
+       y1="0%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop23" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.000495; stop-color: #000000"
+         id="stop24" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.00396"
+         id="stop25" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.013365"
+         id="stop26" />
+      <stop
+         offset="0.4"
+         style="stop-opacity: 0.03168; stop-color: #000000"
+         id="stop27" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.061875"
+         id="stop28" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop29" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.169785"
+         id="stop30" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.25344"
+         id="stop31" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.360855"
+         id="stop32" />
+      <stop
+         offset="1"
+         style="stop-opacity: 0.495; stop-color: #000000"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_shadow_right"
+       x1="100%"
+       x2="0%"
+       y1="0%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop34" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.000495"
+         id="stop35" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.00396"
+         id="stop36" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.013365"
+         id="stop37" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.03168"
+         id="stop38" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.061875"
+         id="stop39" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop40" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.169785"
+         id="stop41" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.25344"
+         id="stop42" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.360855; stop-color: #000000"
+         id="stop43" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.495"
+         id="stop44" />
+    </linearGradient>
+    <radialGradient
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_bottomright_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop45" />
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0.495"
+         id="stop46" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.360855"
+         id="stop47" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.25344; stop-color: #000000"
+         id="stop48" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop49" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop50" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.061875; stop-color: #000000"
+         id="stop51" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.03168"
+         id="stop52" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.013365; stop-color: #000000"
+         id="stop53" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.00396000000000001"
+         id="stop54" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.000495000000000002"
+         id="stop55" />
+      <stop
+         offset="1"
+         style="stop-opacity: 1.32301853149564e-48; stop-color: #000000"
+         id="stop56" />
+    </radialGradient>
+    <radialGradient
+       cx="1"
+       cy="0"
+       fx="1"
+       fy="0"
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_bottomleft_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop57" />
+      <stop
+         offset="0"
+         style="stop-opacity: 0.495; stop-color: #000000"
+         id="stop58" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.360855"
+         id="stop59" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.25344"
+         id="stop60" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop61" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop62" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.061875; stop-color: #000000"
+         id="stop63" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.03168; stop-color: #000000"
+         id="stop64" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.013365"
+         id="stop65" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.00396000000000001"
+         id="stop66" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.000495000000000002"
+         id="stop67" />
+      <stop
+         offset="1"
+         style="stop-opacity: 1.32301853149564e-48; stop-color: #000000"
+         id="stop68" />
+    </radialGradient>
+    <radialGradient
+       cx="1"
+       cy="1"
+       fx="1"
+       fy="1"
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_topleft_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop69" />
+      <stop
+         offset="0"
+         style="stop-opacity: 0.495; stop-color: #000000"
+         id="stop70" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.360855; stop-color: #000000"
+         id="stop71" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.25344; stop-color: #000000"
+         id="stop72" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop73" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop74" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.061875; stop-color: #000000"
+         id="stop75" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.03168"
+         id="stop76" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.013365; stop-color: #000000"
+         id="stop77" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.00396000000000001"
+         id="stop78" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.000495000000000002; stop-color: #000000"
+         id="stop79" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 1.32301853149564e-48"
+         id="stop80" />
+    </radialGradient>
+    <radialGradient
+       cx="0"
+       cy="1"
+       fx="0"
+       fy="1"
+       gradientUnits="objectBoundingBox"
+       id="active_gradient_topright_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop81" />
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0.495"
+         id="stop82" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.360855"
+         id="stop83" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.25344"
+         id="stop84" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.169785; stop-color: #000000"
+         id="stop85" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.10692"
+         id="stop86" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.061875; stop-color: #000000"
+         id="stop87" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.03168; stop-color: #000000"
+         id="stop88" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.013365; stop-color: #000000"
+         id="stop89" />
+      <stop
+         offset="0.8"
+         style="stop-color: #000000; stop-opacity: 0.00396000000000001"
+         id="stop90" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.000495000000000002; stop-color: #000000"
+         id="stop91" />
+      <stop
+         offset="1"
+         style="stop-opacity: 1.32301853149564e-48; stop-color: #000000"
+         id="stop92" />
+    </radialGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_shadow_top"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop93" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.00033; stop-color: #000000"
+         id="stop94" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.00264; stop-color: #000000"
+         id="stop95" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.00891"
+         id="stop96" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.02112"
+         id="stop97" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.04125"
+         id="stop98" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop99" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.11319"
+         id="stop100" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop101" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.24057"
+         id="stop102" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.33"
+         id="stop103" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_shadow_bottom"
+       x1="0%"
+       x2="0%"
+       y1="100%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop104" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.00033"
+         id="stop105" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.00264; stop-color: #000000"
+         id="stop106" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.00891"
+         id="stop107" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.02112"
+         id="stop108" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.04125; stop-color: #000000"
+         id="stop109" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.07128; stop-color: #000000"
+         id="stop110" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.11319; stop-color: #000000"
+         id="stop111" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop112" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.24057; stop-color: #000000"
+         id="stop113" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.33"
+         id="stop114" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_shadow_left"
+       x1="0%"
+       x2="100%"
+       y1="0%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop115" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.00033"
+         id="stop116" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.00264"
+         id="stop117" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.00891"
+         id="stop118" />
+      <stop
+         offset="0.4"
+         style="stop-opacity: 0.02112; stop-color: #000000"
+         id="stop119" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.04125; stop-color: #000000"
+         id="stop120" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.07128; stop-color: #000000"
+         id="stop121" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.11319; stop-color: #000000"
+         id="stop122" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop123" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.24057"
+         id="stop124" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 0.33"
+         id="stop125" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_shadow_right"
+       x1="100%"
+       x2="0%"
+       y1="0%"
+       y2="0%">
+      <stop
+         offset="0"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop126" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.00033"
+         id="stop127" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.00264; stop-color: #000000"
+         id="stop128" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.00891"
+         id="stop129" />
+      <stop
+         offset="0.4"
+         style="stop-opacity: 0.02112; stop-color: #000000"
+         id="stop130" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.04125"
+         id="stop131" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop132" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.11319"
+         id="stop133" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop134" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.24057"
+         id="stop135" />
+      <stop
+         offset="1"
+         style="stop-opacity: 0.33; stop-color: #000000"
+         id="stop136" />
+    </linearGradient>
+    <radialGradient
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_bottomright_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop137" />
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0.33"
+         id="stop138" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.24057; stop-color: #000000"
+         id="stop139" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop140" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.11319"
+         id="stop141" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop142" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.04125"
+         id="stop143" />
+      <stop
+         offset="0.6"
+         style="stop-color: #000000; stop-opacity: 0.02112"
+         id="stop144" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.00891000000000001; stop-color: #000000"
+         id="stop145" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.00264000000000001; stop-color: #000000"
+         id="stop146" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.000330000000000001"
+         id="stop147" />
+      <stop
+         offset="1"
+         style="stop-opacity: 8.82012354330425e-49; stop-color: #000000"
+         id="stop148" />
+    </radialGradient>
+    <radialGradient
+       cx="1"
+       cy="0"
+       fx="1"
+       fy="0"
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_bottomleft_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop149" />
+      <stop
+         offset="0"
+         style="stop-opacity: 0.33; stop-color: #000000"
+         id="stop150" />
+      <stop
+         offset="0.1"
+         style="stop-color: #000000; stop-opacity: 0.24057"
+         id="stop151" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop152" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.11319"
+         id="stop153" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop154" />
+      <stop
+         offset="0.5"
+         style="stop-color: #000000; stop-opacity: 0.04125"
+         id="stop155" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.02112; stop-color: #000000"
+         id="stop156" />
+      <stop
+         offset="0.7"
+         style="stop-color: #000000; stop-opacity: 0.00891000000000001"
+         id="stop157" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.00264000000000001; stop-color: #000000"
+         id="stop158" />
+      <stop
+         offset="0.9"
+         style="stop-color: #000000; stop-opacity: 0.000330000000000001"
+         id="stop159" />
+      <stop
+         offset="1"
+         style="stop-opacity: 8.82012354330425e-49; stop-color: #000000"
+         id="stop160" />
+    </radialGradient>
+    <radialGradient
+       cx="1"
+       cy="1"
+       fx="1"
+       fy="1"
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_topleft_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-color: #000000; stop-opacity: 0"
+         id="stop161" />
+      <stop
+         offset="0"
+         style="stop-color: #000000; stop-opacity: 0.33"
+         id="stop162" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.24057; stop-color: #000000"
+         id="stop163" />
+      <stop
+         offset="0.2"
+         style="stop-opacity: 0.16896; stop-color: #000000"
+         id="stop164" />
+      <stop
+         offset="0.3"
+         style="stop-opacity: 0.11319; stop-color: #000000"
+         id="stop165" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop166" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.04125; stop-color: #000000"
+         id="stop167" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.02112; stop-color: #000000"
+         id="stop168" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.00891000000000001; stop-color: #000000"
+         id="stop169" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.00264000000000001; stop-color: #000000"
+         id="stop170" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.000330000000000001; stop-color: #000000"
+         id="stop171" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 8.82012354330425e-49"
+         id="stop172" />
+    </radialGradient>
+    <radialGradient
+       cx="0"
+       cy="1"
+       fx="0"
+       fy="1"
+       gradientUnits="objectBoundingBox"
+       id="inactive_gradient_topright_corner"
+       r="1">
+      <stop
+         offset="0%"
+         style="stop-opacity: 0; stop-color: #000000"
+         id="stop173" />
+      <stop
+         offset="0"
+         style="stop-opacity: 0.33; stop-color: #000000"
+         id="stop174" />
+      <stop
+         offset="0.1"
+         style="stop-opacity: 0.24057; stop-color: #000000"
+         id="stop175" />
+      <stop
+         offset="0.2"
+         style="stop-color: #000000; stop-opacity: 0.16896"
+         id="stop176" />
+      <stop
+         offset="0.3"
+         style="stop-color: #000000; stop-opacity: 0.11319"
+         id="stop177" />
+      <stop
+         offset="0.4"
+         style="stop-color: #000000; stop-opacity: 0.07128"
+         id="stop178" />
+      <stop
+         offset="0.5"
+         style="stop-opacity: 0.04125; stop-color: #000000"
+         id="stop179" />
+      <stop
+         offset="0.6"
+         style="stop-opacity: 0.02112; stop-color: #000000"
+         id="stop180" />
+      <stop
+         offset="0.7"
+         style="stop-opacity: 0.00891000000000001; stop-color: #000000"
+         id="stop181" />
+      <stop
+         offset="0.8"
+         style="stop-opacity: 0.00264000000000001; stop-color: #000000"
+         id="stop182" />
+      <stop
+         offset="0.9"
+         style="stop-opacity: 0.000330000000000001; stop-color: #000000"
+         id="stop183" />
+      <stop
+         offset="1"
+         style="stop-color: #000000; stop-opacity: 8.82012354330425e-49"
+         id="stop184" />
+    </radialGradient>
+  </defs>
+  <g
+     id="decoration-topleft">
+    <g
+       id="shadow-topleft">
+      <rect
+         height="34"
+         id="active_shadow_topleft_leftdrop_shadow"
+         style="stroke: url(#active_gradient_shadow_left); stroke-width: 0; opacity: 1; fill: url(#active_gradient_shadow_left); fill-opacity: 1"
+         width="25"
+         x="67"
+         y="66" />
+      <rect
+         height="25"
+         id="active_shadow_topleft_topdrop_shadow"
+         style="stroke: url(#active_gradient_shadow_top); stroke-width: 0; opacity: 1; fill-opacity: 1; fill: url(#active_gradient_shadow_top)"
+         width="8"
+         x="92"
+         y="41" />
+      <path
+         d="M 92,66 C 92,66 92,66 92,66 L 67,66 C 67,51 77,41 92,41 z"
+         height="45"
+         id="active_shadow_topleft_left_corner"
+         style="fill: url(#active_gradient_topleft_corner); fill-opacity: 1; stroke-width: 0; stroke: none"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_contents_halo1"
+       style="opacity: 0.90000000000000002; stroke: #0f2643; stroke-width: 0; fill: #0f2643; fill-opacity: 1"
+       width="0"
+       x="100"
+       y="99" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_left2_active_contents_halo1"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643; fill: #0f2643; fill-opacity: 1"
+       width="1"
+       x="99"
+       y="99" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_contents_highlight1"
+       style="stroke: #b2c1d5; stroke-width: 0; opacity: 0.90000000000000002; fill: #b2c1d5; fill-opacity: 1"
+       width="1"
+       x="99"
+       y="98" />
+    <rect
+       height="2"
+       id="active_decoration_topleft_left2_active_contents_highlight1"
+       style="fill-opacity: 1; fill: #b2c1d5; opacity: 0.90000000000000002; stroke: #b2c1d5; stroke-width: 0"
+       width="1"
+       x="98"
+       y="98" />
+    <rect
+       height="27"
+       id="active_decoration_topleft_top2_active_title_middle4"
+       style="stroke: #555555; stroke-width: 0; opacity: 0.4; fill-opacity: 1; fill: #555555"
+       width="2"
+       x="98"
+       y="71" />
+    <rect
+       height="29"
+       id="active_decoration_topleft_left2_active_title_middle4"
+       style="opacity: 0.4; stroke-width: 0; stroke: #555555; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="97"
+       y="71" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="3"
+       x="97"
+       y="70" />
+    <rect
+       height="30"
+       id="active_decoration_topleft_left2_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="1"
+       x="96"
+       y="70" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="4"
+       x="96"
+       y="69" />
+    <rect
+       height="31"
+       id="active_decoration_topleft_left2_active_title_middle2"
+       style="stroke-width: 0; stroke: #555555; opacity: 0.4; fill-opacity: 1; fill: #555555"
+       width="1"
+       x="95"
+       y="69" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_title_middle1"
+       style="fill-opacity: 1; fill: #555555; opacity: 0.4; stroke-width: 0; stroke: #555555"
+       width="5"
+       x="95"
+       y="68" />
+    <rect
+       height="32"
+       id="active_decoration_topleft_left2_active_title_middle1"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="94"
+       y="68" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_window_highlight1"
+       style="stroke-width: 0; stroke: #dce3ed; opacity: 0.90000000000000002; fill: #dce3ed; fill-opacity: 1"
+       width="6"
+       x="94"
+       y="67" />
+    <rect
+       height="33"
+       id="active_decoration_topleft_left2_active_window_highlight1"
+       style="fill: #dce3ed; fill-opacity: 1; stroke: #dce3ed; stroke-width: 0; opacity: 0.90000000000000002"
+       width="1"
+       x="93"
+       y="67" />
+    <rect
+       height="1"
+       id="active_decoration_topleft_top2_active_window_halo1"
+       style="fill: #000000; fill-opacity: 1; stroke: #000000; stroke-width: 0; opacity: 0.90000000000000002"
+       width="7"
+       x="93"
+       y="66" />
+    <rect
+       height="34"
+       id="active_decoration_topleft_left2_active_window_halo1"
+       style="stroke: #000000; stroke-width: 0; opacity: 0.90000000000000002; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="92"
+       y="66" />
+  </g>
+  <g
+     id="decoration-top">
+    <g
+       id="shadow-top">
+      <rect
+         height="25"
+         id="active_decoration_top_drop_shadow"
+         style="opacity: 1; stroke: url(#active_gradient_shadow_top); stroke-width: 0; fill: url(#active_gradient_shadow_top); fill-opacity: 1"
+         width="20"
+         x="100"
+         y="41" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_top_active_contents_halo"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643; fill: #0f2643; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="99" />
+    <rect
+       height="1"
+       id="active_decoration_top_active_contents_highlight"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #b2c1d5; fill: #b2c1d5; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="98" />
+    <rect
+       height="30"
+       id="active_decoration_top_active_title_middle"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill-opacity: 1; fill: #555555"
+       width="20"
+       x="100"
+       y="68" />
+    <rect
+       height="1"
+       id="active_decoration_top_active_window_highlight"
+       style="fill-opacity: 1; fill: #dce3ed; opacity: 0.90000000000000002; stroke: #dce3ed; stroke-width: 0"
+       width="20"
+       x="100"
+       y="67" />
+    <rect
+       height="1"
+       id="active_decoration_top_active_window_halo"
+       style="fill-opacity: 1; fill: #000000; stroke: #000000; stroke-width: 0; opacity: 0.90000000000000002"
+       width="20"
+       x="100"
+       y="66" />
+  </g>
+  <g
+     id="decoration-topright">
+    <g
+       id="shadow-topright">
+      <rect
+         height="34"
+         id="active_shadow_topright_rightdrop_shadow"
+         style="stroke: url(#active_gradient_shadow_right); stroke-width: 0; opacity: 1; fill: url(#active_gradient_shadow_right); fill-opacity: 1"
+         width="25"
+         x="128"
+         y="66" />
+      <rect
+         height="25"
+         id="active_shadow_topright_topdrop_shadow"
+         style="fill: url(#active_gradient_shadow_top); fill-opacity: 1; opacity: 1; stroke: url(#active_gradient_shadow_top); stroke-width: 0"
+         width="8"
+         x="120"
+         y="41" />
+      <path
+         d="M 128,66 C 128,66 128,66 128,66 L 153,66 C 153,51 143,41 128,41 z"
+         height="45"
+         id="active_shadow_topright_right_corner"
+         style="stroke: none; stroke-width: 0; fill-opacity: 1; fill: url(#active_gradient_topright_corner)"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_contents_halo1"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643; fill-opacity: 1; fill: #0f2643"
+       width="0"
+       x="120"
+       y="99" />
+    <rect
+       height="1"
+       id="active_decoration_topright_right2_active_contents_halo1"
+       style="opacity: 0.90000000000000002; stroke: #0f2643; stroke-width: 0; fill-opacity: 1; fill: #0f2643"
+       width="1"
+       x="120"
+       y="99" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_contents_highlight1"
+       style="fill-opacity: 1; fill: #b2c1d5; opacity: 0.90000000000000002; stroke-width: 0; stroke: #b2c1d5"
+       width="1"
+       x="120"
+       y="98" />
+    <rect
+       height="2"
+       id="active_decoration_topright_right2_active_contents_highlight1"
+       style="stroke: #b2c1d5; stroke-width: 0; opacity: 0.90000000000000002; fill-opacity: 1; fill: #b2c1d5"
+       width="1"
+       x="121"
+       y="98" />
+    <rect
+       height="27"
+       id="active_decoration_topright_top2_active_title_middle4"
+       style="opacity: 0.4; stroke-width: 0; stroke: #555555; fill: #555555; fill-opacity: 1"
+       width="2"
+       x="120"
+       y="71" />
+    <rect
+       height="29"
+       id="active_decoration_topright_right2_active_title_middle4"
+       style="stroke-width: 0; stroke: #555555; opacity: 0.4; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="122"
+       y="71" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; stroke: #555555; stroke-width: 0; opacity: 0.4"
+       width="3"
+       x="120"
+       y="70" />
+    <rect
+       height="30"
+       id="active_decoration_topright_right2_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 0.4"
+       width="1"
+       x="123"
+       y="70" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke-width: 0; stroke: #555555"
+       width="4"
+       x="120"
+       y="69" />
+    <rect
+       height="31"
+       id="active_decoration_topright_right2_active_title_middle2"
+       style="stroke: #555555; stroke-width: 0; opacity: 0.4; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="124"
+       y="69" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_title_middle1"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="5"
+       x="120"
+       y="68" />
+    <rect
+       height="32"
+       id="active_decoration_topright_right2_active_title_middle1"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="125"
+       y="68" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_window_highlight1"
+       style="fill-opacity: 1; fill: #dce3ed; opacity: 0.90000000000000002; stroke-width: 0; stroke: #dce3ed"
+       width="6"
+       x="120"
+       y="67" />
+    <rect
+       height="33"
+       id="active_decoration_topright_right2_active_window_highlight1"
+       style="fill-opacity: 1; fill: #dce3ed; opacity: 0.90000000000000002; stroke-width: 0; stroke: #dce3ed"
+       width="1"
+       x="126"
+       y="67" />
+    <rect
+       height="1"
+       id="active_decoration_topright_top2_active_window_halo1"
+       style="fill-opacity: 1; fill: #000000; stroke: #000000; stroke-width: 0; opacity: 0.90000000000000002"
+       width="7"
+       x="120"
+       y="66" />
+    <rect
+       height="34"
+       id="active_decoration_topright_right2_active_window_halo1"
+       style="fill-opacity: 1; fill: #000000; stroke-width: 0; stroke: #000000; opacity: 0.90000000000000002"
+       width="1"
+       x="127"
+       y="66" />
+  </g>
+  <g
+     id="decoration-left">
+    <g
+       id="shadow-left">
+      <rect
+         height="20"
+         id="active_decoration_left_drop_shadow"
+         style="stroke: url(#active_gradient_shadow_left); stroke-width: 0; opacity: 1; fill-opacity: 1; fill: url(#active_gradient_shadow_left)"
+         width="25"
+         x="67"
+         y="100" />
+    </g>
+    <rect
+       height="20"
+       id="active_decoration_left_active_contents_halo"
+       style="opacity: 0.90000000000000002; stroke: #0f2643; stroke-width: 0; fill-opacity: 1; fill: #0f2643"
+       width="1"
+       x="99"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_left_active_contents_highlight"
+       style="opacity: 0.90000000000000002; stroke: #b2c1d5; stroke-width: 0; fill: #b2c1d5; fill-opacity: 1"
+       width="1"
+       x="98"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_left_active_title_middle"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill-opacity: 1; fill: #555555"
+       width="4"
+       x="94"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_left_active_window_highlight"
+       style="fill: #dce3ed; fill-opacity: 1; stroke-width: 0; stroke: #dce3ed; opacity: 0.90000000000000002"
+       width="1"
+       x="93"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_left_active_window_halo"
+       style="fill-opacity: 1; fill: #000000; stroke: #000000; stroke-width: 0; opacity: 0.90000000000000002"
+       width="1"
+       x="92"
+       y="100" />
+  </g>
+  <g
+     id="decoration-center">
+    <g
+       id="shadow-center" />
+    <rect
+       height="20"
+       id="active_decoration_center"
+       style="opacity: 0; stroke-width: 0; stroke: #ffffff; fill-opacity: 1; fill: #ffffff"
+       width="20"
+       x="100"
+       y="100" />
+  </g>
+  <g
+     id="decoration-right">
+    <g
+       id="shadow-right">
+      <rect
+         height="20"
+         id="active_decoration_right_drop_shadow"
+         style="opacity: 1; stroke: url(#active_gradient_shadow_right); stroke-width: 0; fill: url(#active_gradient_shadow_right); fill-opacity: 1"
+         width="25"
+         x="128"
+         y="100" />
+    </g>
+    <rect
+       height="20"
+       id="active_decoration_right_active_contents_halo"
+       style="fill-opacity: 1; fill: #0f2643; stroke-width: 0; stroke: #0f2643; opacity: 0.90000000000000002"
+       width="1"
+       x="120"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_right_active_contents_shadow"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #90b2da; fill: #90b2da; fill-opacity: 1"
+       width="1"
+       x="121"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_right_active_title_middle"
+       style="stroke: #555555; stroke-width: 0; opacity: 0.4; fill-opacity: 1; fill: #555555"
+       width="4"
+       x="122"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_right_active_window_shadow"
+       style="opacity: 0.92000000000000004; stroke-width: 0; stroke: #cdddee; fill-opacity: 1; fill: #cdddee"
+       width="1"
+       x="126"
+       y="100" />
+    <rect
+       height="20"
+       id="active_decoration_right_active_window_halo"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #000000; fill: #000000; fill-opacity: 1"
+       width="1"
+       x="127"
+       y="100" />
+  </g>
+  <g
+     id="decoration-bottomleft">
+    <g
+       id="shadow-bottomleft">
+      <rect
+         height="8"
+         id="active_shadow_bottomleft_leftdrop_shadow"
+         style="fill: url(#active_gradient_shadow_left); fill-opacity: 1; opacity: 1; stroke: url(#active_gradient_shadow_left); stroke-width: 0"
+         width="25"
+         x="67"
+         y="120" />
+      <rect
+         height="25"
+         id="active_shadow_bottomleft_bottomdrop_shadow"
+         style="fill-opacity: 1; fill: url(#active_gradient_shadow_bottom); opacity: 1; stroke-width: 0; stroke: url(#active_gradient_shadow_bottom)"
+         width="8"
+         x="92"
+         y="128" />
+      <path
+         d="M 92,128 C 92,128 92,128 92,128 L 67,128 C 67,143 77,153 92,153 z"
+         height="45"
+         id="active_shadow_bottomleft_left_corner"
+         style="fill: url(#active_gradient_bottomleft_corner); fill-opacity: 1; stroke: none; stroke-width: 0"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_contents_halo1"
+       style="fill-opacity: 1; fill: #0f2643; opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643"
+       width="0"
+       x="100"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_left_active_contents_halo1"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643; fill: #0f2643; fill-opacity: 1"
+       width="1"
+       x="99"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_contents_highlight1"
+       style="fill-opacity: 1; fill: #b2c1d5; stroke: #b2c1d5; stroke-width: 0; opacity: 0.90000000000000002"
+       width="1"
+       x="99"
+       y="121" />
+    <rect
+       height="2"
+       id="active_decoration_bottomleft_left_active_contents_highlight1"
+       style="fill: #b2c1d5; fill-opacity: 1; stroke: #b2c1d5; stroke-width: 0; opacity: 0.90000000000000002"
+       width="1"
+       x="98"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_title_middle4"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="2"
+       x="98"
+       y="122" />
+    <rect
+       height="3"
+       id="active_decoration_bottomleft_left_active_title_middle4"
+       style="fill-opacity: 1; fill: #555555; stroke: #555555; stroke-width: 0; opacity: 0.4"
+       width="1"
+       x="97"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 0.4"
+       width="3"
+       x="97"
+       y="123" />
+    <rect
+       height="4"
+       id="active_decoration_bottomleft_left_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; stroke: #555555; stroke-width: 0; opacity: 0.4"
+       width="1"
+       x="96"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_title_middle2"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 0.4"
+       width="4"
+       x="96"
+       y="124" />
+    <rect
+       height="5"
+       id="active_decoration_bottomleft_left_active_title_middle2"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 0.4"
+       width="1"
+       x="95"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_title_middle1"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill: #555555; fill-opacity: 1"
+       width="5"
+       x="95"
+       y="125" />
+    <rect
+       height="6"
+       id="active_decoration_bottomleft_left_active_title_middle1"
+       style="fill-opacity: 1; fill: #555555; stroke: #555555; stroke-width: 0; opacity: 0.4"
+       width="1"
+       x="94"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_window_highlight1"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #dce3ed; fill-opacity: 1; fill: #dce3ed"
+       width="6"
+       x="94"
+       y="126" />
+    <rect
+       height="7"
+       id="active_decoration_bottomleft_left_active_window_highlight1"
+       style="stroke-width: 0; stroke: #dce3ed; opacity: 0.90000000000000002; fill: #dce3ed; fill-opacity: 1"
+       width="1"
+       x="93"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomleft_bottom_active_window_halo1"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="7"
+       x="93"
+       y="127" />
+    <rect
+       height="8"
+       id="active_decoration_bottomleft_left_active_window_halo1"
+       style="fill: #000000; fill-opacity: 1; opacity: 0.90000000000000002; stroke-width: 0; stroke: #000000"
+       width="1"
+       x="92"
+       y="120" />
+  </g>
+  <g
+     id="decoration-bottom">
+    <g
+       id="shadow-bottom">
+      <rect
+         height="25"
+         id="active_decoration_bottom_drop_shadow"
+         style="opacity: 1; stroke-width: 0; stroke: url(#active_gradient_shadow_bottom); fill-opacity: 1; fill: url(#active_gradient_shadow_bottom)"
+         width="20"
+         x="100"
+         y="128" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_bottom_active_contents_halo"
+       style="fill-opacity: 1; fill: #0f2643; stroke: #0f2643; stroke-width: 0; opacity: 0.90000000000000002"
+       width="20"
+       x="100"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottom_active_contents_shadow"
+       style="opacity: 0.90000000000000002; stroke-width: 0; stroke: #90b2da; fill: #90b2da; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="121" />
+    <rect
+       height="4"
+       id="active_decoration_bottom_active_title_middle"
+       style="opacity: 0.4; stroke: #555555; stroke-width: 0; fill: #555555; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="122" />
+    <rect
+       height="1"
+       id="active_decoration_bottom_active_window_shadow"
+       style="fill: #cdddee; fill-opacity: 1; stroke-width: 0; stroke: #cdddee; opacity: 0.92000000000000004"
+       width="20"
+       x="100"
+       y="126" />
+    <rect
+       height="1"
+       id="active_decoration_bottom_active_window_halo"
+       style="fill-opacity: 1; fill: #000000; opacity: 0.90000000000000002; stroke: #000000; stroke-width: 0"
+       width="20"
+       x="100"
+       y="127" />
+  </g>
+  <g
+     id="decoration-bottomright">
+    <g
+       id="shadow-bottomright">
+      <rect
+         height="8"
+         id="active_shadow_bottomright_rightdrop_shadow"
+         style="fill: url(#active_gradient_shadow_right); fill-opacity: 1; stroke-width: 0; stroke: url(#active_gradient_shadow_right); opacity: 1"
+         width="25"
+         x="128"
+         y="120" />
+      <rect
+         height="25"
+         id="active_shadow_bottomright_bottomdrop_shadow"
+         style="stroke-width: 0; stroke: url(#active_gradient_shadow_bottom); opacity: 1; fill-opacity: 1; fill: url(#active_gradient_shadow_bottom)"
+         width="8"
+         x="120"
+         y="128" />
+      <path
+         d="M 128,128 C 128,128 128,128 128,128 L 153,128 C 153,143 143,153 128,153 z"
+         height="45"
+         id="active_shadow_bottomright_right_corner"
+         style="fill-opacity: 1; fill: url(#active_gradient_bottomright_corner); stroke: none; stroke-width: 0"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_contents_halo1"
+       style="fill: #0f2643; fill-opacity: 1; opacity: 0.90000000000000002; stroke-width: 0; stroke: #0f2643"
+       width="0"
+       x="120"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_right_active_contents_halo1"
+       style="fill: #0f2643; fill-opacity: 1; opacity: 0.90000000000000002; stroke: #0f2643; stroke-width: 0"
+       width="1"
+       x="120"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_contents_shadow1"
+       style="fill-opacity: 1; fill: #90b2da; opacity: 0.90000000000000002; stroke: #90b2da; stroke-width: 0"
+       width="1"
+       x="120"
+       y="121" />
+    <rect
+       height="2"
+       id="active_decoration_bottomright_right_active_contents_shadow1"
+       style="fill-opacity: 1; fill: #90b2da; opacity: 0.90000000000000002; stroke-width: 0; stroke: #90b2da"
+       width="1"
+       x="121"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_title_middle4"
+       style="opacity: 0.4; stroke-width: 0; stroke: #555555; fill: #555555; fill-opacity: 1"
+       width="2"
+       x="120"
+       y="122" />
+    <rect
+       height="3"
+       id="active_decoration_bottomright_right_active_title_middle4"
+       style="stroke-width: 0; stroke: #555555; opacity: 0.4; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="122"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="3"
+       x="120"
+       y="123" />
+    <rect
+       height="4"
+       id="active_decoration_bottomright_right_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; stroke: #555555; stroke-width: 0; opacity: 0.4"
+       width="1"
+       x="123"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_title_middle2"
+       style="opacity: 0.4; stroke-width: 0; stroke: #555555; fill-opacity: 1; fill: #555555"
+       width="4"
+       x="120"
+       y="124" />
+    <rect
+       height="5"
+       id="active_decoration_bottomright_right_active_title_middle2"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 0.4"
+       width="1"
+       x="124"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_title_middle1"
+       style="fill: #555555; fill-opacity: 1; opacity: 0.4; stroke: #555555; stroke-width: 0"
+       width="5"
+       x="120"
+       y="125" />
+    <rect
+       height="6"
+       id="active_decoration_bottomright_right_active_title_middle1"
+       style="opacity: 0.4; stroke-width: 0; stroke: #555555; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="125"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_window_shadow1"
+       style="fill: #cdddee; fill-opacity: 1; stroke-width: 0; stroke: #cdddee; opacity: 0.92000000000000004"
+       width="6"
+       x="120"
+       y="126" />
+    <rect
+       height="7"
+       id="active_decoration_bottomright_right_active_window_shadow1"
+       style="stroke: #cdddee; stroke-width: 0; opacity: 0.92000000000000004; fill-opacity: 1; fill: #cdddee"
+       width="1"
+       x="126"
+       y="120" />
+    <rect
+       height="1"
+       id="active_decoration_bottomright_bottom_active_window_halo1"
+       style="stroke-width: 0; stroke: #000000; opacity: 0.90000000000000002; fill-opacity: 1; fill: #000000"
+       width="7"
+       x="120"
+       y="127" />
+    <rect
+       height="8"
+       id="active_decoration_bottomright_right_active_window_halo1"
+       style="fill-opacity: 1; fill: #000000; stroke-width: 0; stroke: #000000; opacity: 0.90000000000000002"
+       width="1"
+       x="127"
+       y="120" />
+  </g>
+  <g
+     id="decoration-inactive-topleft">
+    <g
+       id="shadow-inactive-topleft">
+      <rect
+         height="34"
+         id="inactive_shadow_topleft_leftdrop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_left); opacity: 1; stroke: url(#inactive_gradient_shadow_left); stroke-width: 0"
+         width="25"
+         x="167"
+         y="66" />
+      <rect
+         height="25"
+         id="inactive_shadow_topleft_topdrop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_top); stroke-width: 0; stroke: url(#inactive_gradient_shadow_top); opacity: 1"
+         width="8"
+         x="192"
+         y="41" />
+      <path
+         d="M 192,66 C 192,66 192,66 192,66 L 167,66 C 167,51 177,41 192,41 z"
+         height="45"
+         id="inactive_shadow_topleft_left_corner"
+         style="stroke: none; stroke-width: 0; fill-opacity: 1; fill: url(#inactive_gradient_topleft_corner)"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_contents_halo1"
+       style="fill-opacity: 1; fill: #000000; opacity: 0.5; stroke: #000000; stroke-width: 0"
+       width="0"
+       x="200"
+       y="99" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_left2_inactive_contents_halo1"
+       style="opacity: 0.5; stroke: #000000; stroke-width: 0; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="199"
+       y="99" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_contents_highlight1"
+       style="stroke-width: 0; stroke: #c1c9d2; opacity: 0.5; fill: #c1c9d2; fill-opacity: 1"
+       width="1"
+       x="199"
+       y="98" />
+    <rect
+       height="2"
+       id="inactive_decoration_topleft_left2_inactive_contents_highlight1"
+       style="stroke-width: 0; stroke: #c1c9d2; opacity: 0.5; fill-opacity: 1; fill: #c1c9d2"
+       width="1"
+       x="198"
+       y="98" />
+    <rect
+       height="27"
+       id="inactive_decoration_topleft_top2_inactive_title_middle4"
+       style="stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="2"
+       x="198"
+       y="71" />
+    <rect
+       height="29"
+       id="inactive_decoration_topleft_left2_inactive_title_middle4"
+       style="fill: #e7e7e7; fill-opacity: 1; opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0"
+       width="1"
+       x="197"
+       y="71" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_title_middle3"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill: #e7e7e7; fill-opacity: 1"
+       width="3"
+       x="197"
+       y="70" />
+    <rect
+       height="30"
+       id="inactive_decoration_topleft_left2_inactive_title_middle3"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="1"
+       x="196"
+       y="70" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_title_middle2"
+       style="stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="4"
+       x="196"
+       y="69" />
+    <rect
+       height="31"
+       id="inactive_decoration_topleft_left2_inactive_title_middle2"
+       style="opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0; fill: #e7e7e7; fill-opacity: 1"
+       width="1"
+       x="195"
+       y="69" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_title_middle1"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="5"
+       x="195"
+       y="68" />
+    <rect
+       height="32"
+       id="inactive_decoration_topleft_left2_inactive_title_middle1"
+       style="fill-opacity: 1; fill: #e7e7e7; stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003"
+       width="1"
+       x="194"
+       y="68" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_window_highlight1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #dce3ed; fill: #dce3ed; fill-opacity: 1"
+       width="6"
+       x="194"
+       y="67" />
+    <rect
+       height="33"
+       id="inactive_decoration_topleft_left2_inactive_window_highlight1"
+       style="stroke-width: 0; stroke: #dce3ed; opacity: 0.5; fill-opacity: 1; fill: #dce3ed"
+       width="1"
+       x="193"
+       y="67" />
+    <rect
+       height="1"
+       id="inactive_decoration_topleft_top2_inactive_window_halo1"
+       style="stroke-width: 0; stroke: #000000; opacity: 0.5; fill-opacity: 1; fill: #000000"
+       width="7"
+       x="193"
+       y="66" />
+    <rect
+       height="34"
+       id="inactive_decoration_topleft_left2_inactive_window_halo1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill: #000000; fill-opacity: 1"
+       width="1"
+       x="192"
+       y="66" />
+  </g>
+  <g
+     id="decoration-inactive-top">
+    <g
+       id="shadow-inactive-top">
+      <rect
+         height="25"
+         id="inactive_decoration_top_drop_shadow"
+         style="opacity: 1; stroke: url(#inactive_gradient_shadow_top); stroke-width: 0; fill-opacity: 1; fill: url(#inactive_gradient_shadow_top)"
+         width="20"
+         x="200"
+         y="41" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_top_inactive_contents_halo"
+       style="fill-opacity: 1; fill: #000000; opacity: 0.5; stroke: #000000; stroke-width: 0"
+       width="20"
+       x="200"
+       y="99" />
+    <rect
+       height="1"
+       id="inactive_decoration_top_inactive_contents_highlight"
+       style="fill-opacity: 1; fill: #c1c9d2; opacity: 0.5; stroke-width: 0; stroke: #c1c9d2"
+       width="20"
+       x="200"
+       y="98" />
+    <rect
+       height="30"
+       id="inactive_decoration_top_inactive_title_middle"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill: #e7e7e7; fill-opacity: 1"
+       width="20"
+       x="200"
+       y="68" />
+    <rect
+       height="1"
+       id="inactive_decoration_top_inactive_window_highlight"
+       style="fill: #dce3ed; fill-opacity: 1; opacity: 0.5; stroke-width: 0; stroke: #dce3ed"
+       width="20"
+       x="200"
+       y="67" />
+    <rect
+       height="1"
+       id="inactive_decoration_top_inactive_window_halo"
+       style="fill-opacity: 1; fill: #000000; opacity: 0.5; stroke-width: 0; stroke: #000000"
+       width="20"
+       x="200"
+       y="66" />
+  </g>
+  <g
+     id="decoration-inactive-topright">
+    <g
+       id="shadow-inactive-topright">
+      <rect
+         height="34"
+         id="inactive_shadow_topright_rightdrop_shadow"
+         style="opacity: 1; stroke: url(#inactive_gradient_shadow_right); stroke-width: 0; fill: url(#inactive_gradient_shadow_right); fill-opacity: 1"
+         width="25"
+         x="228"
+         y="66" />
+      <rect
+         height="25"
+         id="inactive_shadow_topright_topdrop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_top); opacity: 1; stroke-width: 0; stroke: url(#inactive_gradient_shadow_top)"
+         width="8"
+         x="220"
+         y="41" />
+      <path
+         d="M 228,66 C 228,66 228,66 228,66 L 253,66 C 253,51 243,41 228,41 z"
+         height="45"
+         id="inactive_shadow_topright_right_corner"
+         style="stroke: none; stroke-width: 0; fill: url(#inactive_gradient_topright_corner); fill-opacity: 1"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_contents_halo1"
+       style="fill-opacity: 1; fill: #000000; stroke: #000000; stroke-width: 0; opacity: 0.5"
+       width="0"
+       x="220"
+       y="99" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_right2_inactive_contents_halo1"
+       style="fill: #000000; fill-opacity: 1; stroke-width: 0; stroke: #000000; opacity: 0.5"
+       width="1"
+       x="220"
+       y="99" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_contents_highlight1"
+       style="fill-opacity: 1; fill: #c1c9d2; opacity: 0.5; stroke: #c1c9d2; stroke-width: 0"
+       width="1"
+       x="220"
+       y="98" />
+    <rect
+       height="2"
+       id="inactive_decoration_topright_right2_inactive_contents_highlight1"
+       style="stroke-width: 0; stroke: #c1c9d2; opacity: 0.5; fill-opacity: 1; fill: #c1c9d2"
+       width="1"
+       x="221"
+       y="98" />
+    <rect
+       height="27"
+       id="inactive_decoration_topright_top2_inactive_title_middle4"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill: #e7e7e7; fill-opacity: 1"
+       width="2"
+       x="220"
+       y="71" />
+    <rect
+       height="29"
+       id="inactive_decoration_topright_right2_inactive_title_middle4"
+       style="fill-opacity: 1; fill: #e7e7e7; opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7"
+       width="1"
+       x="222"
+       y="71" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_title_middle3"
+       style="fill: #e7e7e7; fill-opacity: 1; stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003"
+       width="3"
+       x="220"
+       y="70" />
+    <rect
+       height="30"
+       id="inactive_decoration_topright_right2_inactive_title_middle3"
+       style="fill-opacity: 1; fill: #e7e7e7; stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003"
+       width="1"
+       x="223"
+       y="70" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_title_middle2"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill-opacity: 1; fill: #e7e7e7"
+       width="4"
+       x="220"
+       y="69" />
+    <rect
+       height="31"
+       id="inactive_decoration_topright_right2_inactive_title_middle2"
+       style="fill-opacity: 1; fill: #e7e7e7; opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0"
+       width="1"
+       x="224"
+       y="69" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_title_middle1"
+       style="fill: #e7e7e7; fill-opacity: 1; opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0"
+       width="5"
+       x="220"
+       y="68" />
+    <rect
+       height="32"
+       id="inactive_decoration_topright_right2_inactive_title_middle1"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill: #e7e7e7; fill-opacity: 1"
+       width="1"
+       x="225"
+       y="68" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_window_highlight1"
+       style="opacity: 0.5; stroke: #dce3ed; stroke-width: 0; fill: #dce3ed; fill-opacity: 1"
+       width="6"
+       x="220"
+       y="67" />
+    <rect
+       height="33"
+       id="inactive_decoration_topright_right2_inactive_window_highlight1"
+       style="fill-opacity: 1; fill: #dce3ed; opacity: 0.5; stroke: #dce3ed; stroke-width: 0"
+       width="1"
+       x="226"
+       y="67" />
+    <rect
+       height="1"
+       id="inactive_decoration_topright_top2_inactive_window_halo1"
+       style="opacity: 0.5; stroke: #000000; stroke-width: 0; fill: #000000; fill-opacity: 1"
+       width="7"
+       x="220"
+       y="66" />
+    <rect
+       height="34"
+       id="inactive_decoration_topright_right2_inactive_window_halo1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="227"
+       y="66" />
+  </g>
+  <g
+     id="decoration-inactive-left">
+    <g
+       id="shadow-inactive-left">
+      <rect
+         height="20"
+         id="inactive_decoration_left_drop_shadow"
+         style="fill: url(#inactive_gradient_shadow_left); fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: url(#inactive_gradient_shadow_left)"
+         width="25"
+         x="167"
+         y="100" />
+    </g>
+    <rect
+       height="20"
+       id="inactive_decoration_left_inactive_contents_halo"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill: #000000; fill-opacity: 1"
+       width="1"
+       x="199"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_left_inactive_contents_highlight"
+       style="fill-opacity: 1; fill: #c1c9d2; opacity: 0.5; stroke-width: 0; stroke: #c1c9d2"
+       width="1"
+       x="198"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_left_inactive_title_middle"
+       style="fill-opacity: 1; fill: #e7e7e7; stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003"
+       width="4"
+       x="194"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_left_inactive_window_highlight"
+       style="fill-opacity: 1; fill: #dce3ed; opacity: 0.5; stroke: #dce3ed; stroke-width: 0"
+       width="1"
+       x="193"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_left_inactive_window_halo"
+       style="fill: #000000; fill-opacity: 1; stroke-width: 0; stroke: #000000; opacity: 0.5"
+       width="1"
+       x="192"
+       y="100" />
+  </g>
+  <g
+     id="decoration-inactive-center">
+    <g
+       id="shadow-inactive-center" />
+    <rect
+       height="20"
+       id="inactive_decoration_center"
+       style="fill: #ffffff; fill-opacity: 1; stroke-width: 0; stroke: #ffffff; opacity: 0"
+       width="20"
+       x="200"
+       y="100" />
+  </g>
+  <g
+     id="decoration-inactive-right">
+    <g
+       id="shadow-inactive-right">
+      <rect
+         height="20"
+         id="inactive_decoration_right_drop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_right); stroke-width: 0; stroke: url(#inactive_gradient_shadow_right); opacity: 1"
+         width="25"
+         x="228"
+         y="100" />
+    </g>
+    <rect
+       height="20"
+       id="inactive_decoration_right_inactive_contents_halo"
+       style="fill-opacity: 1; fill: #000000; opacity: 0.5; stroke: #000000; stroke-width: 0"
+       width="1"
+       x="220"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_right_inactive_contents_shadow"
+       style="fill-opacity: 1; fill: #cddae9; opacity: 0.5; stroke-width: 0; stroke: #cddae9"
+       width="1"
+       x="221"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_right_inactive_title_middle"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill-opacity: 1; fill: #e7e7e7"
+       width="4"
+       x="222"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_right_inactive_window_shadow"
+       style="fill: #cdddee; fill-opacity: 1; opacity: 0.5; stroke: #cdddee; stroke-width: 0"
+       width="1"
+       x="226"
+       y="100" />
+    <rect
+       height="20"
+       id="inactive_decoration_right_inactive_window_halo"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="227"
+       y="100" />
+  </g>
+  <g
+     id="decoration-inactive-bottomleft">
+    <g
+       id="shadow-inactive-bottomleft">
+      <rect
+         height="8"
+         id="inactive_shadow_bottomleft_leftdrop_shadow"
+         style="stroke: url(#inactive_gradient_shadow_left); stroke-width: 0; opacity: 1; fill-opacity: 1; fill: url(#inactive_gradient_shadow_left)"
+         width="25"
+         x="167"
+         y="120" />
+      <rect
+         height="25"
+         id="inactive_shadow_bottomleft_bottomdrop_shadow"
+         style="opacity: 1; stroke: url(#inactive_gradient_shadow_bottom); stroke-width: 0; fill: url(#inactive_gradient_shadow_bottom); fill-opacity: 1"
+         width="8"
+         x="192"
+         y="128" />
+      <path
+         d="M 192,128 C 192,128 192,128 192,128 L 167,128 C 167,143 177,153 192,153 z"
+         height="45"
+         id="inactive_shadow_bottomleft_left_corner"
+         style="stroke-width: 0; stroke: none; fill: url(#inactive_gradient_bottomleft_corner); fill-opacity: 1"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_contents_halo1"
+       style="stroke-width: 0; stroke: #000000; opacity: 0.5; fill: #000000; fill-opacity: 1"
+       width="0"
+       x="200"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_left_inactive_contents_halo1"
+       style="fill: #000000; fill-opacity: 1; stroke: #000000; stroke-width: 0; opacity: 0.5"
+       width="1"
+       x="199"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_contents_highlight1"
+       style="stroke-width: 0; stroke: #c1c9d2; opacity: 0.5; fill-opacity: 1; fill: #c1c9d2"
+       width="1"
+       x="199"
+       y="121" />
+    <rect
+       height="2"
+       id="inactive_decoration_bottomleft_left_inactive_contents_highlight1"
+       style="stroke: #c1c9d2; stroke-width: 0; opacity: 0.5; fill-opacity: 1; fill: #c1c9d2"
+       width="1"
+       x="198"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_title_middle4"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="2"
+       x="198"
+       y="122" />
+    <rect
+       height="3"
+       id="inactive_decoration_bottomleft_left_inactive_title_middle4"
+       style="fill-opacity: 1; fill: #e7e7e7; opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7"
+       width="1"
+       x="197"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_title_middle3"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill: #e7e7e7; fill-opacity: 1"
+       width="3"
+       x="197"
+       y="123" />
+    <rect
+       height="4"
+       id="inactive_decoration_bottomleft_left_inactive_title_middle3"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill-opacity: 1; fill: #e7e7e7"
+       width="1"
+       x="196"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_title_middle2"
+       style="opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0; fill: #e7e7e7; fill-opacity: 1"
+       width="4"
+       x="196"
+       y="124" />
+    <rect
+       height="5"
+       id="inactive_decoration_bottomleft_left_inactive_title_middle2"
+       style="fill-opacity: 1; fill: #e7e7e7; stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003"
+       width="1"
+       x="195"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_title_middle1"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="5"
+       x="195"
+       y="125" />
+    <rect
+       height="6"
+       id="inactive_decoration_bottomleft_left_inactive_title_middle1"
+       style="opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0; fill: #e7e7e7; fill-opacity: 1"
+       width="1"
+       x="194"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_window_highlight1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #dce3ed; fill: #dce3ed; fill-opacity: 1"
+       width="6"
+       x="194"
+       y="126" />
+    <rect
+       height="7"
+       id="inactive_decoration_bottomleft_left_inactive_window_highlight1"
+       style="fill-opacity: 1; fill: #dce3ed; stroke: #dce3ed; stroke-width: 0; opacity: 0.5"
+       width="1"
+       x="193"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomleft_bottom_inactive_window_halo1"
+       style="fill: #000000; fill-opacity: 1; opacity: 0.5; stroke-width: 0; stroke: #000000"
+       width="7"
+       x="193"
+       y="127" />
+    <rect
+       height="8"
+       id="inactive_decoration_bottomleft_left_inactive_window_halo1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="192"
+       y="120" />
+  </g>
+  <g
+     id="decoration-inactive-bottom">
+    <g
+       id="shadow-inactive-bottom">
+      <rect
+         height="25"
+         id="inactive_decoration_bottom_drop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_bottom); opacity: 1; stroke-width: 0; stroke: url(#inactive_gradient_shadow_bottom)"
+         width="20"
+         x="200"
+         y="128" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_bottom_inactive_contents_halo"
+       style="fill: #000000; fill-opacity: 1; stroke: #000000; stroke-width: 0; opacity: 0.5"
+       width="20"
+       x="200"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottom_inactive_contents_shadow"
+       style="stroke-width: 0; stroke: #cddae9; opacity: 0.5; fill-opacity: 1; fill: #cddae9"
+       width="20"
+       x="200"
+       y="121" />
+    <rect
+       height="4"
+       id="inactive_decoration_bottom_inactive_title_middle"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="20"
+       x="200"
+       y="122" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottom_inactive_window_shadow"
+       style="stroke: #cdddee; stroke-width: 0; opacity: 0.5; fill: #cdddee; fill-opacity: 1"
+       width="20"
+       x="200"
+       y="126" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottom_inactive_window_halo"
+       style="fill-opacity: 1; fill: #000000; stroke-width: 0; stroke: #000000; opacity: 0.5"
+       width="20"
+       x="200"
+       y="127" />
+  </g>
+  <g
+     id="decoration-inactive-bottomright">
+    <g
+       id="shadow-inactive-bottomright">
+      <rect
+         height="8"
+         id="inactive_shadow_bottomright_rightdrop_shadow"
+         style="fill: url(#inactive_gradient_shadow_right); fill-opacity: 1; opacity: 1; stroke: url(#inactive_gradient_shadow_right); stroke-width: 0"
+         width="25"
+         x="228"
+         y="120" />
+      <rect
+         height="25"
+         id="inactive_shadow_bottomright_bottomdrop_shadow"
+         style="fill-opacity: 1; fill: url(#inactive_gradient_shadow_bottom); stroke-width: 0; stroke: url(#inactive_gradient_shadow_bottom); opacity: 1"
+         width="8"
+         x="220"
+         y="128" />
+      <path
+         d="M 228,128 C 228,128 228,128 228,128 L 253,128 C 253,143 243,153 228,153 z"
+         height="45"
+         id="inactive_shadow_bottomright_right_corner"
+         style="stroke: none; stroke-width: 0; fill: url(#inactive_gradient_bottomright_corner); fill-opacity: 1"
+         width="45" />
+    </g>
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_contents_halo1"
+       style="fill: #000000; fill-opacity: 1; stroke-width: 0; stroke: #000000; opacity: 0.5"
+       width="0"
+       x="220"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_right_inactive_contents_halo1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="1"
+       x="220"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_contents_shadow1"
+       style="fill-opacity: 1; fill: #cddae9; stroke: #cddae9; stroke-width: 0; opacity: 0.5"
+       width="1"
+       x="220"
+       y="121" />
+    <rect
+       height="2"
+       id="inactive_decoration_bottomright_right_inactive_contents_shadow1"
+       style="fill: #cddae9; fill-opacity: 1; stroke: #cddae9; stroke-width: 0; opacity: 0.5"
+       width="1"
+       x="221"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_title_middle4"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="2"
+       x="220"
+       y="122" />
+    <rect
+       height="3"
+       id="inactive_decoration_bottomright_right_inactive_title_middle4"
+       style="stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003; fill: #e7e7e7; fill-opacity: 1"
+       width="1"
+       x="222"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_title_middle3"
+       style="stroke: #e7e7e7; stroke-width: 0; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="3"
+       x="220"
+       y="123" />
+    <rect
+       height="4"
+       id="inactive_decoration_bottomright_right_inactive_title_middle3"
+       style="fill-opacity: 1; fill: #e7e7e7; opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7"
+       width="1"
+       x="223"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_title_middle2"
+       style="stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003; fill-opacity: 1; fill: #e7e7e7"
+       width="4"
+       x="220"
+       y="124" />
+    <rect
+       height="5"
+       id="inactive_decoration_bottomright_right_inactive_title_middle2"
+       style="opacity: 0.050000000000000003; stroke-width: 0; stroke: #e7e7e7; fill-opacity: 1; fill: #e7e7e7"
+       width="1"
+       x="224"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_title_middle1"
+       style="fill: #e7e7e7; fill-opacity: 1; opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0"
+       width="5"
+       x="220"
+       y="125" />
+    <rect
+       height="6"
+       id="inactive_decoration_bottomright_right_inactive_title_middle1"
+       style="opacity: 0.050000000000000003; stroke: #e7e7e7; stroke-width: 0; fill-opacity: 1; fill: #e7e7e7"
+       width="1"
+       x="225"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_window_shadow1"
+       style="fill-opacity: 1; fill: #cdddee; stroke-width: 0; stroke: #cdddee; opacity: 0.5"
+       width="6"
+       x="220"
+       y="126" />
+    <rect
+       height="7"
+       id="inactive_decoration_bottomright_right_inactive_window_shadow1"
+       style="opacity: 0.5; stroke: #cdddee; stroke-width: 0; fill: #cdddee; fill-opacity: 1"
+       width="1"
+       x="226"
+       y="120" />
+    <rect
+       height="1"
+       id="inactive_decoration_bottomright_bottom_inactive_window_halo1"
+       style="opacity: 0.5; stroke-width: 0; stroke: #000000; fill-opacity: 1; fill: #000000"
+       width="7"
+       x="220"
+       y="127" />
+    <rect
+       height="8"
+       id="inactive_decoration_bottomright_right_inactive_window_halo1"
+       style="fill: #000000; fill-opacity: 1; opacity: 0.5; stroke-width: 0; stroke: #000000"
+       width="1"
+       x="227"
+       y="120" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-topleft">
+    <g
+       id="shadow-opaque-inactive-topleft" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_contents_halo1"
+       style="fill-opacity: 1; fill: #808080; stroke: #808080; stroke-width: 0; opacity: 1"
+       width="0"
+       x="200"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_left2_inactive_contents_halo1"
+       style="fill: #808080; fill-opacity: 1; stroke-width: 0; stroke: #808080; opacity: 1"
+       width="1"
+       x="199"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_contents_highlight1"
+       style="fill: #e0e4e9; fill-opacity: 1; stroke-width: 0; stroke: #e0e4e9; opacity: 1"
+       width="1"
+       x="199"
+       y="198" />
+    <rect
+       height="2"
+       id="opaque-inactive_decoration_topleft_left2_inactive_contents_highlight1"
+       style="fill: #e0e4e9; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #e0e4e9"
+       width="1"
+       x="198"
+       y="198" />
+    <rect
+       height="27"
+       id="opaque-inactive_decoration_topleft_top2_inactive_title_middle4"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke-width: 0; stroke: #fefefe"
+       width="2"
+       x="198"
+       y="171" />
+    <rect
+       height="29"
+       id="opaque-inactive_decoration_topleft_left2_inactive_title_middle4"
+       style="fill: #fefefe; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #fefefe"
+       width="1"
+       x="197"
+       y="171" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_title_middle3"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill: #fefefe; fill-opacity: 1"
+       width="3"
+       x="197"
+       y="170" />
+    <rect
+       height="30"
+       id="opaque-inactive_decoration_topleft_left2_inactive_title_middle3"
+       style="opacity: 1; stroke: #fefefe; stroke-width: 0; fill: #fefefe; fill-opacity: 1"
+       width="1"
+       x="196"
+       y="170" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_title_middle2"
+       style="opacity: 1; stroke: #fefefe; stroke-width: 0; fill: #fefefe; fill-opacity: 1"
+       width="4"
+       x="196"
+       y="169" />
+    <rect
+       height="31"
+       id="opaque-inactive_decoration_topleft_left2_inactive_title_middle2"
+       style="opacity: 1; stroke: #fefefe; stroke-width: 0; fill: #fefefe; fill-opacity: 1"
+       width="1"
+       x="195"
+       y="169" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_title_middle1"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke: #fefefe; stroke-width: 0"
+       width="5"
+       x="195"
+       y="168" />
+    <rect
+       height="32"
+       id="opaque-inactive_decoration_topleft_left2_inactive_title_middle1"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill: #fefefe; fill-opacity: 1"
+       width="1"
+       x="194"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_window_highlight1"
+       style="fill: #eef1f6; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #eef1f6"
+       width="6"
+       x="194"
+       y="167" />
+    <rect
+       height="33"
+       id="opaque-inactive_decoration_topleft_left2_inactive_window_highlight1"
+       style="opacity: 1; stroke-width: 0; stroke: #eef1f6; fill-opacity: 1; fill: #eef1f6"
+       width="1"
+       x="193"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topleft_top2_inactive_window_halo1"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill: #808080; fill-opacity: 1"
+       width="7"
+       x="193"
+       y="166" />
+    <rect
+       height="34"
+       id="opaque-inactive_decoration_topleft_left2_inactive_window_halo1"
+       style="opacity: 1; stroke-width: 0; stroke: #808080; fill-opacity: 1; fill: #808080"
+       width="1"
+       x="192"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-top">
+    <g
+       id="shadow-opaque-inactive-top" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_top_inactive_contents_halo"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill: #808080; fill-opacity: 1"
+       width="20"
+       x="200"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_top_inactive_contents_highlight"
+       style="stroke-width: 0; stroke: #e0e4e9; opacity: 1; fill-opacity: 1; fill: #e0e4e9"
+       width="20"
+       x="200"
+       y="198" />
+    <rect
+       height="30"
+       id="opaque-inactive_decoration_top_inactive_title_middle"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill: #fefefe; fill-opacity: 1"
+       width="20"
+       x="200"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_top_inactive_window_highlight"
+       style="opacity: 1; stroke-width: 0; stroke: #eef1f6; fill-opacity: 1; fill: #eef1f6"
+       width="20"
+       x="200"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_top_inactive_window_halo"
+       style="fill: #808080; fill-opacity: 1; opacity: 1; stroke: #808080; stroke-width: 0"
+       width="20"
+       x="200"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-topright">
+    <g
+       id="shadow-opaque-inactive-topright" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_contents_halo1"
+       style="fill: #808080; fill-opacity: 1; stroke: #808080; stroke-width: 0; opacity: 1"
+       width="0"
+       x="220"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_right2_inactive_contents_halo1"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill: #808080; fill-opacity: 1"
+       width="1"
+       x="220"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_contents_highlight1"
+       style="fill-opacity: 1; fill: #e0e4e9; stroke-width: 0; stroke: #e0e4e9; opacity: 1"
+       width="1"
+       x="220"
+       y="198" />
+    <rect
+       height="2"
+       id="opaque-inactive_decoration_topright_right2_inactive_contents_highlight1"
+       style="opacity: 1; stroke-width: 0; stroke: #e0e4e9; fill: #e0e4e9; fill-opacity: 1"
+       width="1"
+       x="221"
+       y="198" />
+    <rect
+       height="27"
+       id="opaque-inactive_decoration_topright_top2_inactive_title_middle4"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke: #fefefe; stroke-width: 0"
+       width="2"
+       x="220"
+       y="171" />
+    <rect
+       height="29"
+       id="opaque-inactive_decoration_topright_right2_inactive_title_middle4"
+       style="fill-opacity: 1; fill: #fefefe; stroke-width: 0; stroke: #fefefe; opacity: 1"
+       width="1"
+       x="222"
+       y="171" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_title_middle3"
+       style="fill: #fefefe; fill-opacity: 1; stroke-width: 0; stroke: #fefefe; opacity: 1"
+       width="3"
+       x="220"
+       y="170" />
+    <rect
+       height="30"
+       id="opaque-inactive_decoration_topright_right2_inactive_title_middle3"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill-opacity: 1; fill: #fefefe"
+       width="1"
+       x="223"
+       y="170" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_title_middle2"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill: #fefefe; fill-opacity: 1"
+       width="4"
+       x="220"
+       y="169" />
+    <rect
+       height="31"
+       id="opaque-inactive_decoration_topright_right2_inactive_title_middle2"
+       style="opacity: 1; stroke: #fefefe; stroke-width: 0; fill: #fefefe; fill-opacity: 1"
+       width="1"
+       x="224"
+       y="169" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_title_middle1"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke-width: 0; stroke: #fefefe"
+       width="5"
+       x="220"
+       y="168" />
+    <rect
+       height="32"
+       id="opaque-inactive_decoration_topright_right2_inactive_title_middle1"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill-opacity: 1; fill: #fefefe"
+       width="1"
+       x="225"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_window_highlight1"
+       style="fill-opacity: 1; fill: #eef1f6; opacity: 1; stroke: #eef1f6; stroke-width: 0"
+       width="6"
+       x="220"
+       y="167" />
+    <rect
+       height="33"
+       id="opaque-inactive_decoration_topright_right2_inactive_window_highlight1"
+       style="fill-opacity: 1; fill: #eef1f6; stroke: #eef1f6; stroke-width: 0; opacity: 1"
+       width="1"
+       x="226"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_topright_top2_inactive_window_halo1"
+       style="fill-opacity: 1; fill: #808080; stroke-width: 0; stroke: #808080; opacity: 1"
+       width="7"
+       x="220"
+       y="166" />
+    <rect
+       height="34"
+       id="opaque-inactive_decoration_topright_right2_inactive_window_halo1"
+       style="fill-opacity: 1; fill: #808080; opacity: 1; stroke: #808080; stroke-width: 0"
+       width="1"
+       x="227"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-left">
+    <g
+       id="shadow-opaque-inactive-left" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_left_inactive_contents_halo"
+       style="fill-opacity: 1; fill: #808080; stroke-width: 0; stroke: #808080; opacity: 1"
+       width="1"
+       x="199"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_left_inactive_contents_highlight"
+       style="fill: #e0e4e9; fill-opacity: 1; stroke: #e0e4e9; stroke-width: 0; opacity: 1"
+       width="1"
+       x="198"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_left_inactive_title_middle"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill-opacity: 1; fill: #fefefe"
+       width="4"
+       x="194"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_left_inactive_window_highlight"
+       style="stroke: #eef1f6; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #eef1f6"
+       width="1"
+       x="193"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_left_inactive_window_halo"
+       style="fill-opacity: 1; fill: #808080; opacity: 1; stroke-width: 0; stroke: #808080"
+       width="1"
+       x="192"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-center">
+    <g
+       id="shadow-opaque-inactive-center" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_center"
+       style="opacity: 0; stroke-width: 0; stroke: #ffffff; fill: #ffffff; fill-opacity: 1"
+       width="20"
+       x="200"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-right">
+    <g
+       id="shadow-opaque-inactive-right" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_right_inactive_contents_halo"
+       style="fill: #808080; fill-opacity: 1; stroke: #808080; stroke-width: 0; opacity: 1"
+       width="1"
+       x="220"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_right_inactive_contents_shadow"
+       style="fill-opacity: 1; fill: #e6edf4; stroke: #e6edf4; stroke-width: 0; opacity: 1"
+       width="1"
+       x="221"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_right_inactive_title_middle"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke-width: 0; stroke: #fefefe"
+       width="4"
+       x="222"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_right_inactive_window_shadow"
+       style="fill-opacity: 1; fill: #e6eef7; stroke: #e6eef7; stroke-width: 0; opacity: 1"
+       width="1"
+       x="226"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque-inactive_decoration_right_inactive_window_halo"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #808080"
+       width="1"
+       x="227"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-bottomleft">
+    <g
+       id="shadow-opaque-inactive-bottomleft" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_contents_halo1"
+       style="stroke-width: 0; stroke: #808080; opacity: 1; fill: #808080; fill-opacity: 1"
+       width="0"
+       x="200"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_contents_halo1"
+       style="opacity: 1; stroke-width: 0; stroke: #808080; fill: #808080; fill-opacity: 1"
+       width="1"
+       x="199"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_contents_highlight1"
+       style="fill-opacity: 1; fill: #e0e4e9; opacity: 1; stroke-width: 0; stroke: #e0e4e9"
+       width="1"
+       x="199"
+       y="221" />
+    <rect
+       height="2"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_contents_highlight1"
+       style="stroke: #e0e4e9; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #e0e4e9"
+       width="1"
+       x="198"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_title_middle4"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill: #fefefe; fill-opacity: 1"
+       width="2"
+       x="198"
+       y="222" />
+    <rect
+       height="3"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_title_middle4"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill: #fefefe; fill-opacity: 1"
+       width="1"
+       x="197"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_title_middle3"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill-opacity: 1; fill: #fefefe"
+       width="3"
+       x="197"
+       y="223" />
+    <rect
+       height="4"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_title_middle3"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke: #fefefe; stroke-width: 0"
+       width="1"
+       x="196"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_title_middle2"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill-opacity: 1; fill: #fefefe"
+       width="4"
+       x="196"
+       y="224" />
+    <rect
+       height="5"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_title_middle2"
+       style="fill: #fefefe; fill-opacity: 1; stroke: #fefefe; stroke-width: 0; opacity: 1"
+       width="1"
+       x="195"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_title_middle1"
+       style="fill: #fefefe; fill-opacity: 1; opacity: 1; stroke: #fefefe; stroke-width: 0"
+       width="5"
+       x="195"
+       y="225" />
+    <rect
+       height="6"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_title_middle1"
+       style="fill: #fefefe; fill-opacity: 1; stroke: #fefefe; stroke-width: 0; opacity: 1"
+       width="1"
+       x="194"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_window_highlight1"
+       style="stroke-width: 0; stroke: #eef1f6; opacity: 1; fill: #eef1f6; fill-opacity: 1"
+       width="6"
+       x="194"
+       y="226" />
+    <rect
+       height="7"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_window_highlight1"
+       style="stroke-width: 0; stroke: #eef1f6; opacity: 1; fill: #eef1f6; fill-opacity: 1"
+       width="1"
+       x="193"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomleft_bottom_inactive_window_halo1"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #808080"
+       width="7"
+       x="193"
+       y="227" />
+    <rect
+       height="8"
+       id="opaque-inactive_decoration_bottomleft_left_inactive_window_halo1"
+       style="fill-opacity: 1; fill: #808080; stroke-width: 0; stroke: #808080; opacity: 1"
+       width="1"
+       x="192"
+       y="220" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-bottom">
+    <g
+       id="shadow-opaque-inactive-bottom" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottom_inactive_contents_halo"
+       style="stroke: #808080; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #808080"
+       width="20"
+       x="200"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottom_inactive_contents_shadow"
+       style="fill: #e6edf4; fill-opacity: 1; opacity: 1; stroke: #e6edf4; stroke-width: 0"
+       width="20"
+       x="200"
+       y="221" />
+    <rect
+       height="4"
+       id="opaque-inactive_decoration_bottom_inactive_title_middle"
+       style="fill-opacity: 1; fill: #fefefe; opacity: 1; stroke: #fefefe; stroke-width: 0"
+       width="20"
+       x="200"
+       y="222" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottom_inactive_window_shadow"
+       style="fill-opacity: 1; fill: #e6eef7; opacity: 1; stroke: #e6eef7; stroke-width: 0"
+       width="20"
+       x="200"
+       y="226" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottom_inactive_window_halo"
+       style="opacity: 1; stroke-width: 0; stroke: #808080; fill-opacity: 1; fill: #808080"
+       width="20"
+       x="200"
+       y="227" />
+  </g>
+  <g
+     id="decoration-opaque-inactive-bottomright">
+    <g
+       id="shadow-opaque-inactive-bottomright" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_contents_halo1"
+       style="opacity: 1; stroke-width: 0; stroke: #808080; fill: #808080; fill-opacity: 1"
+       width="0"
+       x="220"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_right_inactive_contents_halo1"
+       style="fill: #808080; fill-opacity: 1; opacity: 1; stroke: #808080; stroke-width: 0"
+       width="1"
+       x="220"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_contents_shadow1"
+       style="fill: #e6edf4; fill-opacity: 1; stroke-width: 0; stroke: #e6edf4; opacity: 1"
+       width="1"
+       x="220"
+       y="221" />
+    <rect
+       height="2"
+       id="opaque-inactive_decoration_bottomright_right_inactive_contents_shadow1"
+       style="fill-opacity: 1; fill: #e6edf4; opacity: 1; stroke-width: 0; stroke: #e6edf4"
+       width="1"
+       x="221"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_title_middle4"
+       style="fill: #fefefe; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #fefefe"
+       width="2"
+       x="220"
+       y="222" />
+    <rect
+       height="3"
+       id="opaque-inactive_decoration_bottomright_right_inactive_title_middle4"
+       style="fill: #fefefe; fill-opacity: 1; stroke: #fefefe; stroke-width: 0; opacity: 1"
+       width="1"
+       x="222"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_title_middle3"
+       style="fill-opacity: 1; fill: #fefefe; stroke-width: 0; stroke: #fefefe; opacity: 1"
+       width="3"
+       x="220"
+       y="223" />
+    <rect
+       height="4"
+       id="opaque-inactive_decoration_bottomright_right_inactive_title_middle3"
+       style="fill: #fefefe; fill-opacity: 1; stroke: #fefefe; stroke-width: 0; opacity: 1"
+       width="1"
+       x="223"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_title_middle2"
+       style="stroke: #fefefe; stroke-width: 0; opacity: 1; fill: #fefefe; fill-opacity: 1"
+       width="4"
+       x="220"
+       y="224" />
+    <rect
+       height="5"
+       id="opaque-inactive_decoration_bottomright_right_inactive_title_middle2"
+       style="opacity: 1; stroke-width: 0; stroke: #fefefe; fill-opacity: 1; fill: #fefefe"
+       width="1"
+       x="224"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_title_middle1"
+       style="stroke-width: 0; stroke: #fefefe; opacity: 1; fill-opacity: 1; fill: #fefefe"
+       width="5"
+       x="220"
+       y="225" />
+    <rect
+       height="6"
+       id="opaque-inactive_decoration_bottomright_right_inactive_title_middle1"
+       style="fill-opacity: 1; fill: #fefefe; stroke: #fefefe; stroke-width: 0; opacity: 1"
+       width="1"
+       x="225"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_window_shadow1"
+       style="opacity: 1; stroke: #e6eef7; stroke-width: 0; fill-opacity: 1; fill: #e6eef7"
+       width="6"
+       x="220"
+       y="226" />
+    <rect
+       height="7"
+       id="opaque-inactive_decoration_bottomright_right_inactive_window_shadow1"
+       style="opacity: 1; stroke: #e6eef7; stroke-width: 0; fill-opacity: 1; fill: #e6eef7"
+       width="1"
+       x="226"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque-inactive_decoration_bottomright_bottom_inactive_window_halo1"
+       style="opacity: 1; stroke-width: 0; stroke: #808080; fill: #808080; fill-opacity: 1"
+       width="7"
+       x="220"
+       y="227" />
+    <rect
+       height="8"
+       id="opaque-inactive_decoration_bottomright_right_inactive_window_halo1"
+       style="opacity: 1; stroke: #808080; stroke-width: 0; fill-opacity: 1; fill: #808080"
+       width="1"
+       x="227"
+       y="220" />
+  </g>
+  <g
+     id="decoration-opaque-topleft">
+    <g
+       id="shadow-opaque-topleft" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_contents_halo1"
+       style="opacity: 1; stroke: #273c56; stroke-width: 0; fill: #273c56; fill-opacity: 1"
+       width="0"
+       x="100"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_left2_active_contents_halo1"
+       style="fill: #273c56; fill-opacity: 1; stroke: #273c56; stroke-width: 0; opacity: 1"
+       width="1"
+       x="99"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_contents_highlight1"
+       style="opacity: 1; stroke: #bac7d9; stroke-width: 0; fill: #bac7d9; fill-opacity: 1"
+       width="1"
+       x="99"
+       y="198" />
+    <rect
+       height="2"
+       id="opaque_decoration_topleft_left2_active_contents_highlight1"
+       style="stroke: #bac7d9; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #bac7d9"
+       width="1"
+       x="98"
+       y="198" />
+    <rect
+       height="27"
+       id="opaque_decoration_topleft_top2_active_title_middle4"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="2"
+       x="98"
+       y="171" />
+    <rect
+       height="29"
+       id="opaque_decoration_topleft_left2_active_title_middle4"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="1"
+       x="97"
+       y="171" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="3"
+       x="97"
+       y="170" />
+    <rect
+       height="30"
+       id="opaque_decoration_topleft_left2_active_title_middle3"
+       style="opacity: 1; stroke: #555555; stroke-width: 0; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="96"
+       y="170" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_title_middle2"
+       style="fill-opacity: 1; fill: #555555; opacity: 1; stroke: #555555; stroke-width: 0"
+       width="4"
+       x="96"
+       y="169" />
+    <rect
+       height="31"
+       id="opaque_decoration_topleft_left2_active_title_middle2"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="95"
+       y="169" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_title_middle1"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="5"
+       x="95"
+       y="168" />
+    <rect
+       height="32"
+       id="opaque_decoration_topleft_left2_active_title_middle1"
+       style="opacity: 1; stroke-width: 0; stroke: #555555; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="94"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_window_highlight1"
+       style="stroke-width: 0; stroke: #e0e6ef; opacity: 1; fill: #e0e6ef; fill-opacity: 1"
+       width="6"
+       x="94"
+       y="167" />
+    <rect
+       height="33"
+       id="opaque_decoration_topleft_left2_active_window_highlight1"
+       style="fill: #e0e6ef; fill-opacity: 1; opacity: 1; stroke: #e0e6ef; stroke-width: 0"
+       width="1"
+       x="93"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque_decoration_topleft_top2_active_window_halo1"
+       style="fill-opacity: 1; fill: #191919; opacity: 1; stroke: #191919; stroke-width: 0"
+       width="7"
+       x="93"
+       y="166" />
+    <rect
+       height="34"
+       id="opaque_decoration_topleft_left2_active_window_halo1"
+       style="fill-opacity: 1; fill: #191919; stroke: #191919; stroke-width: 0; opacity: 1"
+       width="1"
+       x="92"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-top">
+    <g
+       id="shadow-opaque-top" />
+    <rect
+       height="1"
+       id="opaque_decoration_top_active_contents_halo"
+       style="stroke: #273c56; stroke-width: 0; opacity: 1; fill: #273c56; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque_decoration_top_active_contents_highlight"
+       style="fill-opacity: 1; fill: #bac7d9; opacity: 1; stroke-width: 0; stroke: #bac7d9"
+       width="20"
+       x="100"
+       y="198" />
+    <rect
+       height="30"
+       id="opaque_decoration_top_active_title_middle"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque_decoration_top_active_window_highlight"
+       style="opacity: 1; stroke: #e0e6ef; stroke-width: 0; fill-opacity: 1; fill: #e0e6ef"
+       width="20"
+       x="100"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque_decoration_top_active_window_halo"
+       style="opacity: 1; stroke-width: 0; stroke: #191919; fill: #191919; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-topright">
+    <g
+       id="shadow-opaque-topright" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_contents_halo1"
+       style="stroke-width: 0; stroke: #273c56; opacity: 1; fill: #273c56; fill-opacity: 1"
+       width="0"
+       x="120"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_right2_active_contents_halo1"
+       style="stroke-width: 0; stroke: #273c56; opacity: 1; fill-opacity: 1; fill: #273c56"
+       width="1"
+       x="120"
+       y="199" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_contents_highlight1"
+       style="opacity: 1; stroke: #bac7d9; stroke-width: 0; fill: #bac7d9; fill-opacity: 1"
+       width="1"
+       x="120"
+       y="198" />
+    <rect
+       height="2"
+       id="opaque_decoration_topright_right2_active_contents_highlight1"
+       style="fill: #bac7d9; fill-opacity: 1; stroke: #bac7d9; stroke-width: 0; opacity: 1"
+       width="1"
+       x="121"
+       y="198" />
+    <rect
+       height="27"
+       id="opaque_decoration_topright_top2_active_title_middle4"
+       style="fill-opacity: 1; fill: #555555; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="2"
+       x="120"
+       y="171" />
+    <rect
+       height="29"
+       id="opaque_decoration_topright_right2_active_title_middle4"
+       style="fill-opacity: 1; fill: #555555; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="1"
+       x="122"
+       y="171" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_title_middle3"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="3"
+       x="120"
+       y="170" />
+    <rect
+       height="30"
+       id="opaque_decoration_topright_right2_active_title_middle3"
+       style="opacity: 1; stroke-width: 0; stroke: #555555; fill-opacity: 1; fill: #555555"
+       width="1"
+       x="123"
+       y="170" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="4"
+       x="120"
+       y="169" />
+    <rect
+       height="31"
+       id="opaque_decoration_topright_right2_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke: #555555; stroke-width: 0"
+       width="1"
+       x="124"
+       y="169" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_title_middle1"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="5"
+       x="120"
+       y="168" />
+    <rect
+       height="32"
+       id="opaque_decoration_topright_right2_active_title_middle1"
+       style="stroke-width: 0; stroke: #555555; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="125"
+       y="168" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_window_highlight1"
+       style="fill: #e0e6ef; fill-opacity: 1; stroke: #e0e6ef; stroke-width: 0; opacity: 1"
+       width="6"
+       x="120"
+       y="167" />
+    <rect
+       height="33"
+       id="opaque_decoration_topright_right2_active_window_highlight1"
+       style="fill-opacity: 1; fill: #e0e6ef; stroke: #e0e6ef; stroke-width: 0; opacity: 1"
+       width="1"
+       x="126"
+       y="167" />
+    <rect
+       height="1"
+       id="opaque_decoration_topright_top2_active_window_halo1"
+       style="fill: #191919; fill-opacity: 1; opacity: 1; stroke: #191919; stroke-width: 0"
+       width="7"
+       x="120"
+       y="166" />
+    <rect
+       height="34"
+       id="opaque_decoration_topright_right2_active_window_halo1"
+       style="stroke: #191919; stroke-width: 0; opacity: 1; fill: #191919; fill-opacity: 1"
+       width="1"
+       x="127"
+       y="166" />
+  </g>
+  <g
+     id="decoration-opaque-left">
+    <g
+       id="shadow-opaque-left" />
+    <rect
+       height="20"
+       id="opaque_decoration_left_active_contents_halo"
+       style="fill-opacity: 1; fill: #273c56; stroke-width: 0; stroke: #273c56; opacity: 1"
+       width="1"
+       x="99"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_left_active_contents_highlight"
+       style="fill-opacity: 1; fill: #bac7d9; stroke-width: 0; stroke: #bac7d9; opacity: 1"
+       width="1"
+       x="98"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_left_active_title_middle"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="4"
+       x="94"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_left_active_window_highlight"
+       style="stroke: #e0e6ef; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #e0e6ef"
+       width="1"
+       x="93"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_left_active_window_halo"
+       style="fill-opacity: 1; fill: #191919; opacity: 1; stroke: #191919; stroke-width: 0"
+       width="1"
+       x="92"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-center">
+    <g
+       id="shadow-opaque-center" />
+    <rect
+       height="20"
+       id="opaque_decoration_center"
+       style="fill-opacity: 1; fill: #ffffff; stroke-width: 0; stroke: #ffffff; opacity: 0"
+       width="20"
+       x="100"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-right">
+    <g
+       id="shadow-opaque-right" />
+    <rect
+       height="20"
+       id="opaque_decoration_right_active_contents_halo"
+       style="stroke-width: 0; stroke: #273c56; opacity: 1; fill: #273c56; fill-opacity: 1"
+       width="1"
+       x="120"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_right_active_contents_shadow"
+       style="stroke-width: 0; stroke: #9bbade; opacity: 1; fill-opacity: 1; fill: #9bbade"
+       width="1"
+       x="121"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_right_active_title_middle"
+       style="opacity: 1; stroke: #555555; stroke-width: 0; fill-opacity: 1; fill: #555555"
+       width="4"
+       x="122"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_right_active_window_shadow"
+       style="fill-opacity: 1; fill: #d1e0ef; opacity: 1; stroke: #d1e0ef; stroke-width: 0"
+       width="1"
+       x="126"
+       y="200" />
+    <rect
+       height="20"
+       id="opaque_decoration_right_active_window_halo"
+       style="fill-opacity: 1; fill: #191919; stroke-width: 0; stroke: #191919; opacity: 1"
+       width="1"
+       x="127"
+       y="200" />
+  </g>
+  <g
+     id="decoration-opaque-bottomleft">
+    <g
+       id="shadow-opaque-bottomleft" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_contents_halo1"
+       style="stroke-width: 0; stroke: #273c56; opacity: 1; fill-opacity: 1; fill: #273c56"
+       width="0"
+       x="100"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_left_active_contents_halo1"
+       style="opacity: 1; stroke: #273c56; stroke-width: 0; fill-opacity: 1; fill: #273c56"
+       width="1"
+       x="99"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_contents_highlight1"
+       style="opacity: 1; stroke-width: 0; stroke: #bac7d9; fill-opacity: 1; fill: #bac7d9"
+       width="1"
+       x="99"
+       y="221" />
+    <rect
+       height="2"
+       id="opaque_decoration_bottomleft_left_active_contents_highlight1"
+       style="stroke-width: 0; stroke: #bac7d9; opacity: 1; fill: #bac7d9; fill-opacity: 1"
+       width="1"
+       x="98"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_title_middle4"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #555555"
+       width="2"
+       x="98"
+       y="222" />
+    <rect
+       height="3"
+       id="opaque_decoration_bottomleft_left_active_title_middle4"
+       style="fill: #555555; fill-opacity: 1; stroke: #555555; stroke-width: 0; opacity: 1"
+       width="1"
+       x="97"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_title_middle3"
+       style="stroke-width: 0; stroke: #555555; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="3"
+       x="97"
+       y="223" />
+    <rect
+       height="4"
+       id="opaque_decoration_bottomleft_left_active_title_middle3"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="1"
+       x="96"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; stroke: #555555; stroke-width: 0; opacity: 1"
+       width="4"
+       x="96"
+       y="224" />
+    <rect
+       height="5"
+       id="opaque_decoration_bottomleft_left_active_title_middle2"
+       style="stroke-width: 0; stroke: #555555; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="95"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_title_middle1"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #555555"
+       width="5"
+       x="95"
+       y="225" />
+    <rect
+       height="6"
+       id="opaque_decoration_bottomleft_left_active_title_middle1"
+       style="opacity: 1; stroke: #555555; stroke-width: 0; fill-opacity: 1; fill: #555555"
+       width="1"
+       x="94"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_window_highlight1"
+       style="opacity: 1; stroke-width: 0; stroke: #e0e6ef; fill-opacity: 1; fill: #e0e6ef"
+       width="6"
+       x="94"
+       y="226" />
+    <rect
+       height="7"
+       id="opaque_decoration_bottomleft_left_active_window_highlight1"
+       style="opacity: 1; stroke: #e0e6ef; stroke-width: 0; fill-opacity: 1; fill: #e0e6ef"
+       width="1"
+       x="93"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomleft_bottom_active_window_halo1"
+       style="fill: #191919; fill-opacity: 1; stroke-width: 0; stroke: #191919; opacity: 1"
+       width="7"
+       x="93"
+       y="227" />
+    <rect
+       height="8"
+       id="opaque_decoration_bottomleft_left_active_window_halo1"
+       style="opacity: 1; stroke: #191919; stroke-width: 0; fill: #191919; fill-opacity: 1"
+       width="1"
+       x="92"
+       y="220" />
+  </g>
+  <g
+     id="decoration-opaque-bottom">
+    <g
+       id="shadow-opaque-bottom" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottom_active_contents_halo"
+       style="fill: #273c56; fill-opacity: 1; stroke: #273c56; stroke-width: 0; opacity: 1"
+       width="20"
+       x="100"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottom_active_contents_shadow"
+       style="fill-opacity: 1; fill: #9bbade; opacity: 1; stroke: #9bbade; stroke-width: 0"
+       width="20"
+       x="100"
+       y="221" />
+    <rect
+       height="4"
+       id="opaque_decoration_bottom_active_title_middle"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="20"
+       x="100"
+       y="222" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottom_active_window_shadow"
+       style="opacity: 1; stroke-width: 0; stroke: #d1e0ef; fill: #d1e0ef; fill-opacity: 1"
+       width="20"
+       x="100"
+       y="226" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottom_active_window_halo"
+       style="fill: #191919; fill-opacity: 1; stroke-width: 0; stroke: #191919; opacity: 1"
+       width="20"
+       x="100"
+       y="227" />
+  </g>
+  <g
+     id="decoration-opaque-bottomright">
+    <g
+       id="shadow-opaque-bottomright" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_contents_halo1"
+       style="stroke: #273c56; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #273c56"
+       width="0"
+       x="120"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_right_active_contents_halo1"
+       style="stroke-width: 0; stroke: #273c56; opacity: 1; fill: #273c56; fill-opacity: 1"
+       width="1"
+       x="120"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_contents_shadow1"
+       style="fill: #9bbade; fill-opacity: 1; stroke-width: 0; stroke: #9bbade; opacity: 1"
+       width="1"
+       x="120"
+       y="221" />
+    <rect
+       height="2"
+       id="opaque_decoration_bottomright_right_active_contents_shadow1"
+       style="fill: #9bbade; fill-opacity: 1; opacity: 1; stroke: #9bbade; stroke-width: 0"
+       width="1"
+       x="121"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_title_middle4"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke: #555555; stroke-width: 0"
+       width="2"
+       x="120"
+       y="222" />
+    <rect
+       height="3"
+       id="opaque_decoration_bottomright_right_active_title_middle4"
+       style="stroke: #555555; stroke-width: 0; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="122"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="3"
+       x="120"
+       y="223" />
+    <rect
+       height="4"
+       id="opaque_decoration_bottomright_right_active_title_middle3"
+       style="fill: #555555; fill-opacity: 1; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="1"
+       x="123"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_title_middle2"
+       style="fill: #555555; fill-opacity: 1; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="4"
+       x="120"
+       y="224" />
+    <rect
+       height="5"
+       id="opaque_decoration_bottomright_right_active_title_middle2"
+       style="fill-opacity: 1; fill: #555555; stroke-width: 0; stroke: #555555; opacity: 1"
+       width="1"
+       x="124"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_title_middle1"
+       style="fill-opacity: 1; fill: #555555; opacity: 1; stroke-width: 0; stroke: #555555"
+       width="5"
+       x="120"
+       y="225" />
+    <rect
+       height="6"
+       id="opaque_decoration_bottomright_right_active_title_middle1"
+       style="stroke-width: 0; stroke: #555555; opacity: 1; fill: #555555; fill-opacity: 1"
+       width="1"
+       x="125"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_window_shadow1"
+       style="fill-opacity: 1; fill: #d1e0ef; opacity: 1; stroke-width: 0; stroke: #d1e0ef"
+       width="6"
+       x="120"
+       y="226" />
+    <rect
+       height="7"
+       id="opaque_decoration_bottomright_right_active_window_shadow1"
+       style="stroke-width: 0; stroke: #d1e0ef; opacity: 1; fill-opacity: 1; fill: #d1e0ef"
+       width="1"
+       x="126"
+       y="220" />
+    <rect
+       height="1"
+       id="opaque_decoration_bottomright_bottom_active_window_halo1"
+       style="opacity: 1; stroke: #191919; stroke-width: 0; fill-opacity: 1; fill: #191919"
+       width="7"
+       x="120"
+       y="227" />
+    <rect
+       height="8"
+       id="opaque_decoration_bottomright_right_active_window_halo1"
+       style="stroke: #191919; stroke-width: 0; opacity: 1; fill-opacity: 1; fill: #191919"
+       width="1"
+       x="127"
+       y="220" />
+  </g>
+  <rect
+     height="20"
+     id="decoration-maximized-center"
+     style="stroke-width: 0; stroke: #555555; opacity: 0.4; fill-opacity: 1; fill: #555555"
+     width="20"
+     x="250"
+     y="200" />
+  <rect
+     height="20"
+     id="decoration-maximized-inactive-center"
+     style="stroke-width: 0; stroke: #e7e7e7; opacity: 0.050000000000000003; fill: #e7e7e7; fill-opacity: 1"
+     width="20"
+     x="250"
+     y="240" />
+  <rect
+     height="20"
+     id="decoration-maximized-opaque-center"
+     style="opacity: 1; stroke-width: 0; stroke: #555555; fill-opacity: 1; fill: #555555"
+     width="20"
+     x="250"
+     y="200" />
+  <rect
+     height="20"
+     id="decoration-maximized-opaque-inactive-center"
+     style="fill: #fefefe; fill-opacity: 1; stroke: #fefefe; stroke-width: 0; opacity: 1"
+     width="20"
+     x="250"
+     y="240" />
+  <!-- 
+	Generated using the Perl SVG Module V2.49
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+  <g
+     id="mask-top"
+     transform="translate(-469.00378,94.235509)">
+    <rect
+       y="-839.00372"
+       x="155.7645"
+       height="145"
+       width="26"
+       id="rect4148-01-9-2-2"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:3.54493"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:3.54493"
+       id="rect980-3"
+       width="26"
+       height="144.99986"
+       x="155.7645"
+       y="-839.00372"
+       class="ColorScheme-Background" />
+    <rect
+       y="-839.00372"
+       x="154.7645"
+       height="144.99991"
+       width="1"
+       id="rect982-75"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:3.4761"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-topright"
+     transform="translate(-469.00378,94.235509)">
+    <path
+       id="rect4177-6-1-8-7-8"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:1.01981"
+       d="m 840.00377,155.7645 v 26.00019 h 17 v -21.84016 c 0,-2.30911 -1.76336,-4.16003 -4,-4.16003 z"
+       sodipodi:nodetypes="cccssc" />
+    <path
+       sodipodi:nodetypes="cccssc"
+       d="m 839.00377,155.7645 v 26 h 18 v -22 c 0,-2.22028 -1.86709,-4 -4.23529,-4 z"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:1.02899"
+       id="path982-9"
+       class="ColorScheme-Background" />
+    <path
+       id="path996-7"
+       style="color:#1d212f;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.09395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#eff0f1"
+       d="m 839.00377,154.7645 v 1.03846 h 13.72222 c 2.3609,0 4.22222,1.84817 4.22222,4.15385 v 21.80769 h 1.05556 v -21.80769 c 0,-2.85551 -2.35694,-5.19231 -5.27778,-5.19231 z"
+       sodipodi:nodetypes="ccssccssc"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="translate(-469.00378,94.235509)">
+    <rect
+       y="-839.00403"
+       x="267.7645"
+       height="144.99998"
+       width="4.9999657"
+       id="rect4148-01-29"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:1.93653"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:1.94321"
+       id="rect984-3"
+       width="5"
+       height="144.99969"
+       x="267.7645"
+       y="-839.00403"
+       class="ColorScheme-Background" />
+    <rect
+       y="-839.00385"
+       x="272.76453"
+       height="144.99985"
+       width="1.0000001"
+       id="rect1043-1"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:0.869029"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-bottomleft"
+     transform="translate(-469.00378,94.235509)">
+    <path
+       d="m 693.0038,268.7645 v 4 h -13 c -2.39409,0 -4,-2 -3.9,-4 h 3.9 z"
+       style="opacity:0.01;fill:#000000;fill-opacity:1"
+       id="rect4177-6-1-8-74-4"
+       sodipodi:nodetypes="ccsccc" />
+    <path
+       id="path986-8"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+       d="m 694.0038,267.7645 v 5 h -14 c -3.5904,0 -4,-3 -4,-5 h 4 z"
+       sodipodi:nodetypes="ccsccc"
+       class="ColorScheme-Background" />
+    <path
+       sodipodi:nodetypes="csccscc"
+       d="m 675.0038,267.7645 c 0,4 1.83831,6 5,6 h 14 v -1 h -14 c -2.078,0 -4,-1 -4,-5 z"
+       style="color:#1d212f;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#eff0f1"
+       id="path1033-4"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-right"
+     transform="translate(-469.00378,94.235509)">
+    <rect
+       y="-857.00378"
+       x="181.76469"
+       height="17"
+       width="85.99987"
+       id="rect4148-01-9-36"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:4.14728"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:4.26751"
+       id="rect989-10"
+       width="85.99987"
+       height="18.000122"
+       x="181.76469"
+       y="-857.00391"
+       ry="0.00012207031"
+       class="ColorScheme-Background" />
+    <rect
+       y="-858.00378"
+       x="181.76456"
+       height="1"
+       width="86.000114"
+       id="rect1006-6"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:1.00586"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-bottomright"
+     transform="translate(-469.00378,94.235509)">
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="rect4177-6-1-8-2"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:1.11803"
+       d="m 840.00377,267.7645 v 5 h 13 c 3,0 4,-3.75 4,-5 h -4 z" />
+    <path
+       d="m 839.00377,267.7645 v 5 h 14 c 2.53045,0 4,-1.7833 4,-5 h -4.23529 z"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:1.02899"
+       id="path991-6"
+       sodipodi:nodetypes="ccsccc"
+       class="ColorScheme-Background" />
+    <path
+       sodipodi:nodetypes="cscccccc"
+       d="m 857.00389,267.76452 c 0,4 -2.32212,4.99998 -4.10012,4.99998 h -13.9 v 1 h 13.9 v 0 c 3.1,0 5.1,-2 5.1,-6 z"
+       style="color:#1d212f;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0548;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#eff0f1"
+       id="path1051-1"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-topleft"
+     transform="translate(-469.00378,94.235509)">
+    <path
+       sodipodi:nodetypes="cccssc"
+       d="m 693.0038,155.7645 v 25 h -17 v -21 c 0,-2.22028 1.76336,-4 4,-4 z"
+       style="opacity:0.01;fill:#000000;fill-opacity:1"
+       id="rect4177-6-1-8-7-2-4" />
+    <path
+       sodipodi:nodetypes="ssccssccs"
+       d="m 680.28158,154.7645 c -2.92084,0 -5.27778,2.33681 -5.27778,5.19234 v 21.80785 h 1.05556 v -21.80785 c 0,-2.30569 1.86132,-4.15387 4.22222,-4.15387 h 13.72222 v -1.03847 z"
+       style="color:#1d212f;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.09396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#eff0f1"
+       id="path1016-7"
+       class="ColorScheme-Background" />
+    <path
+       id="path989-65"
+       style="color:#1d212f;fill:#000000;fill-opacity:1"
+       d="m 694.00381,155.76451 v 26 h -18 v -22 c 0,-2.22028 1.76336,-4 4,-4 z"
+       sodipodi:nodetypes="cccssc"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="mask-left"
+     transform="translate(-469.00378,94.235509)">
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:4.14728"
+       id="rect4148-01-9-5-3"
+       width="85.99987"
+       height="17"
+       x="181.76469"
+       y="676.00378" />
+    <rect
+       y="676.00378"
+       x="181.76469"
+       height="18"
+       width="85.99987"
+       id="rect995-7"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:4.26751"
+       transform="matrix(0,1,1,0,0,0)"
+       class="ColorScheme-Background" />
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:1.00587"
+       id="rect1008-4"
+       width="85.999931"
+       height="1"
+       x="181.76456"
+       y="675.00378"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="g62389"
+     transform="translate(-243.73901,70.49991)">
+    <rect
+       y="-613.73877"
+       x="205.50012"
+       height="144.99957"
+       width="86.000008"
+       id="rect985-2"
+       style="opacity:0.01;fill:#000000;fill-opacity:1"
+       transform="rotate(90)" />
+    <g
+       id="mask-center">
+      <rect
+         transform="rotate(90)"
+         style="color:#1d212f;fill:#000000;fill-opacity:1;stroke-width:0.999998"
+         id="rect997-5"
+         width="86.000008"
+         height="145"
+         x="205.50012"
+         y="-613.73901"
+         class="ColorScheme-Background" />
+    </g>
+  </g>
+</svg>
