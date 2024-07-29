@@ -10,7 +10,7 @@ Keep Blur level 4 for best results.
 
 ## Download
 
-[KDE Store](https://www.pling.com/p/2183315/) 
+[KDE Store](https://store.kde.org/p/2183315) 
 
 # Changelog
 First Release
